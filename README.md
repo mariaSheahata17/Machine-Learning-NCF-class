@@ -2,5 +2,6 @@
 Applied Machine Learning class 
 
  Problemes Sets
- * problem set 1:
  * A1 Statisitcal learning and linear regression
+ * A4 Logistic regression/ ADA/ QDA/ KNN
+ * A5 
