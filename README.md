@@ -8,3 +8,4 @@ Applied Machine Learning class
  * A4 Logistic regression/ ADA/ QDA/ KNN
  * A5 Crosse validation and Bootstrap
  * A6 Shrinkage\&DimensionReduction
+ * A7
